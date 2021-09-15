@@ -26,7 +26,7 @@ Xposed
 下载页面：[VirtualXposed](https://github.com/android-hacker/VirtualXposed/releases)
 
 需要注意的是：VirtualXposed再0.18.2版本之后只支持64位的App。
-如果你的App目前还是32位的，只能使用32位 [VirtualXposed_0.18.2.apk](https://github.com/android-hacker/VirtualXposed/releases/download/0.18.2/VirtualXposed_0.18.2.apk)
+如果你的App目前还是32位的，只能使用32位 [VirtualXposed_0.18.2.apk](./apks/VirtualXposed_0.18.2.apk)
 
 下载后安装到手机待用。
 
