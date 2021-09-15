@@ -31,7 +31,7 @@ Xposed
 下载后安装到手机待用。
 
 ###2.基于Xposed库开发自定义模块
-可以直接下载[XposedHook示例代码](https://github.com/DeMonDemoSpace/XposedHook)，修改后编译运行即可。
+可以直接下载[XposedHook示例代码](https://github.com/Ymmmsick/XposedHook)，修改后编译运行即可。
 
 也可以参照下面的方法自己新建项目后，自定义。
 
@@ -179,5 +179,5 @@ Android审核：用户授权前获取mac地址，imei等用户敏感信息的方
 Android 违规获取用户隐私(获取MAC地址)整改
 
 GitHab
-[XposedHook](https://github.com/DeMonDemoSpace/XposedHook)
+[XposedHook](https://github.com/Ymmmsick/XposedHook)
 
